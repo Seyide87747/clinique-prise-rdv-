@@ -1,0 +1,12 @@
+1-	DESCRIPTION DU PROCESSUS 
+
+
+Rubrique 	Processus << Prise de rendez-vous dans une clinique >>
+Finalité 	Enregistrer le rendez-vous avec le médecin de son choix 
+Déclencheur 	Un patient ou tiers qui se présente ou appelle la réception 
+Entrées	Piece d’identité, motif, médecin souhaité, disponibilité du patient 
+Sorties 	Rendez-vous confirmé et liste de rendez-vous journalière ou hebdomadaire du médecin 
+Acteurs 	Patient, Secrétaire, Médecin 
+Pilote 	Secrétaire 
+Indicateurs	Délai  de prise de rendez-vous, taux d’absence, nombre de double ou de triples réservations 
+
